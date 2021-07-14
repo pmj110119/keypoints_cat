@@ -1,0 +1,6 @@
+*.pth
+*.zip
+*.rar
+/test/
+/cats/
+/__pycharm__/
